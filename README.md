@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/chicio/Chicio-Coding-Android.svg?branch=master)](https://travis-ci.org/chicio/Chicio-Coding-Android)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/chicio/Chicio-Coding-Android/blob/master/LICENSE.md)
-[![Supported platform](https://img.shields.io/badge/platform-android-orange.svg)
+[![Supported platform](https://img.shields.io/badge/platform-android-orange.svg)]
 
 Android mobile app for my blog ["Chicio Coding"](https://www.fabrizioduroni.it/ "chicio coding"). Created using Trusted
 Web Activities
