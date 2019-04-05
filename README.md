@@ -18,4 +18,4 @@ uses ["Trusted Web Activities"](https://developers.google.com/web/updates/2019/0
  play store").
  Below you can find some screenshots of the app.
 
- ![App Screenshot](https://github.com/chicio/Chicio-Coding-Android/raw/master/screenshots/app-sceenshots.png)
+ ![App Screenshot](https://raw.githubusercontent.com/chicio/Chicio-Coding-Android/master/screenshots/app-screenshots.png)
